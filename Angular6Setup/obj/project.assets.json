@@ -7687,7 +7687,7 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "Vo5k9chpuWgqwHlxJHSJK91cY+dC9LDN3/FbkrwXwuUCPCeRnHi2y0ONmln5d/efHrOwfzu3Ly5zAYFubYnFmA==",
+      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
@@ -11477,7 +11477,7 @@
       ]
     },
     "System.Security.Cryptography.Xml/4.4.2": {
-      "sha512": "q9Dren/YP5jhRCkDvLfuaPpMTQzP97ANvzq/OoGgwK8YdLRSTABS9oW5/23OKoM2DRCuBrh4qaecD2YNhPtuzQ==",
+      "sha512": "1m+fKVrApgKYMRuE0MF0vGjqy4XqAp1rCtyAzMXhJajMDDytMh/rHk9hp4M7KKk3QQZoWJUvyUY7xcw74w+JiQ==",
       "type": "package",
       "path": "system.security.cryptography.xml/4.4.2",
       "files": [
@@ -12662,23 +12662,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shabarjl\\.nuget\\packages\\": {},
+    "D:\\Users\\jsa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\Angular6Setup\\Angular6Setup\\Angular6Setup.csproj",
+      "projectUniqueName": "C:\\SG\\ThoughtWorks\\AROS\\Web\\EOVWeb\\Angular6Setup\\Angular6Setup\\Angular6Setup.csproj",
       "projectName": "Angular6Setup",
-      "projectPath": "C:\\projects\\Angular6Setup\\Angular6Setup\\Angular6Setup.csproj",
-      "packagesPath": "C:\\Users\\shabarjl\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\Angular6Setup\\Angular6Setup\\obj\\",
+      "projectPath": "C:\\SG\\ThoughtWorks\\AROS\\Web\\EOVWeb\\Angular6Setup\\Angular6Setup\\Angular6Setup.csproj",
+      "packagesPath": "D:\\Users\\jsa\\.nuget\\packages\\",
+      "outputPath": "C:\\SG\\ThoughtWorks\\AROS\\Web\\EOVWeb\\Angular6Setup\\Angular6Setup\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\shabarjl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "D:\\Users\\jsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
