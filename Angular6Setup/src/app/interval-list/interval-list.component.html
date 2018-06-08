@@ -1,0 +1,14 @@
+<div class="interval-list-container">
+  <div class="interval-list" *ngFor="let list of intervalList">
+    <span><input type="checkbox" /></span>
+    <span>{{list.startDate}} {{list.endDate}}</span>
+    <span>{{list.position}}</span>
+    <span>{{list.interval}}</span>
+    <span>{{list.master}}</span>
+    <span>{{list.diff}}</span>
+    <span>{{list.wind}}</span>
+    <span>{{list.swell}}</span>
+    <span>{{list.dayConsideration}}</span>
+    <button>Show Details</button>
+  </div>
+</div>
